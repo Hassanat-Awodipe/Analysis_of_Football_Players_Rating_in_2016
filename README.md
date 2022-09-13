@@ -22,13 +22,13 @@
 >
 >2. What relationship exists between age of the football players and the overall rating? 
 >
->3. Find the mean overall rating. Make a comparison for players with attributes above the mean(green) and players below the mean(red).
+>3. Find the mean overall rating. Make a comparison of players with attributes above the mean and players below the mean.
 >
 >4. Is there a relationship between the players' BMI and overall_rating? 
 >
 >5. Compare the trend for players general overall rating and potential in 2016. 
 >
->6. Who are the top 10 players for the year?
+>6. Who are the top 10 players for the year 2016?
 
 ## Approach
 > Firstly, I checked if playing with the left or right foot increased the player's shots and by extension, the overall rating of the player. Secondly, I considered the age of the player to determine if younger or older players had a high rating. Then I checked the attributes of the players such as agility, sprint speed, ball_control etc. and how each of them affected the rating score. At this point, I also checked the BMI of each player since it is considered that the weight of a person plays an important role in their well-being. Moving away from the players' attributes, I examined the general trend of potential and overall ratings for the players from the beginning of 2016. Here, I also identified how well players met up to their potential. Finally, I made a subset of the top 10 players for the year and verified if their attributes fitted into the insights gathered from the preceeeding questions.  
