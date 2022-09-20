@@ -1,7 +1,7 @@
 # Analysis_of_Football_Players_Rating_in_2016
 
 ## Introduction
-> Working with a database of European Soccer collected over a period of 9 years (2007 - 2016), the data was analysed to find out how **players attributes affect the overall and potential ratings of the players for the year 2016**. To achieve this, I asked 6 questions that examined how the independent variables interacted with each other and with the dependent variable. 
+> Working with a database of European Soccer collected over a period of 9 years (2007 - 2016), the data was analysed to find out how **players attributes affect their overall and potential ratings for the year 2016**. To achieve this, I asked 6 questions that examined how the independent variables interacted with each other and with the dependent variable. 
 
 ### Dataset Description
 >The database contained several tables like the countries involved, the football leagues the countries participated in, the players, their teams, etc. 
